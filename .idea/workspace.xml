@@ -19,6 +19,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="llxx" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -51,6 +59,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="D:/apache-tomcat-8.5.50/lib/websocket-api.jar!/" />
@@ -316,6 +325,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1597130053926" />
+    <state x="263" y="0" key="CommitChangelistDialog2" timestamp="1597908129903">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="263" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1597908129903" />
     <state x="421" y="84" key="FileChooserDialogImpl" timestamp="1597130896950">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -372,6 +385,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1597130918080" />
+    <state x="233" y="65" key="Vcs.Push.Dialog.v2" timestamp="1597908136321">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="65" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1597908136321" />
     <state x="28" y="0" key="new project wizard" timestamp="1597136118081">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
