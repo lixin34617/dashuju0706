@@ -6,7 +6,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d00133f9-2612-40a1-9e38-d1e92bf81ed1" name="Default Changelist" comment="" />
+    <list default="true" id="d00133f9-2612-40a1-9e38-d1e92bf81ed1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/abc.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/abc.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -310,11 +313,38 @@
       <option name="presentableId" value="Default" />
       <updated>1597129694666</updated>
       <workItem from="1597129706554" duration="6086000" />
+      <workItem from="1597908047844" duration="816000" />
     </task>
+    <task id="LOCAL-00001" summary="新增的abc.html">
+      <created>1597908132250</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597908132250</updated>
+    </task>
+    <task id="LOCAL-00002" summary="新增的abc.html">
+      <created>1597908262366</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597908262366</updated>
+    </task>
+    <task id="LOCAL-00003" summary="新增的abc.html">
+      <created>1597908288688</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597908288688</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="新增的abc.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增的abc.html" />
   </component>
   <component name="WindowStateProjectService">
     <state x="233" y="2" key="#Tomcat_Server" timestamp="1597129843688">
@@ -325,10 +355,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1597130053926" />
-    <state x="263" y="0" key="CommitChangelistDialog2" timestamp="1597908260322">
+    <state x="263" y="0" key="CommitChangelistDialog2" timestamp="1597908286534">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="263" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1597908260322" />
+    <state x="263" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1597908286534" />
     <state x="421" y="84" key="FileChooserDialogImpl" timestamp="1597130896950">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -381,14 +411,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1016" height="236" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1597136121142" />
+    <state x="351" y="57" key="MultipleFileMergeDialog" timestamp="1597908858862">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="351" y="57" key="MultipleFileMergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1597908858862" />
     <state x="121" y="0" key="SettingsEditor" timestamp="1597130918080">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1597130918080" />
-    <state x="233" y="65" key="Vcs.Push.Dialog.v2" timestamp="1597908136321">
+    <state x="233" y="65" key="Vcs.Push.Dialog.v2" timestamp="1597908601190">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="65" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1597908136321" />
+    <state x="233" y="65" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1597908601190" />
+    <state x="339" y="143" key="git4idea.merge.GitPullDialog" timestamp="1597908436953">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="339" y="143" key="git4idea.merge.GitPullDialog/0.0.1280.680@0.0.1280.680" timestamp="1597908436953" />
     <state x="28" y="0" key="new project wizard" timestamp="1597136118081">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
